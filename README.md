@@ -1,2 +1,2 @@
 # HeroBalancer-Project
-Project voor school over HeroBalancer
+Project voor bedrijfseconomie over circulaire economie.
